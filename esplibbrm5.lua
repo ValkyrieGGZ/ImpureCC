@@ -1,6 +1,6 @@
 --[[
 	sensory esp
-	authors: dacces, Gemini, OpenAI, Claude, Deepseek
+	by valk
 
 	inspired by:
 	https://v3rm.net/threads/chatgpt-esp-by-me.28629/#post-242437
